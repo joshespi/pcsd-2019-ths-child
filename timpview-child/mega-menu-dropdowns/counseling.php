@@ -1,5 +1,5 @@
 <div class="dropDownColumn">
-	<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2018-theme/assets/icons/folded-newspaper.svg" alt="" />Counseling News</h3>
+	<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/folded-newspaper.svg" alt="" />Counseling News</h3>
 		<ul>
 			<li class="int"><a href="https://timpviewbeta.provo.edu/category/counseling/">All Counseling News</a></li>
             <li class="int"><a href="https://timpviewbeta.provo.edu/category/counseling/graduation-planning/">Graduation Planning News</a></li>
@@ -10,7 +10,7 @@
 </div>
 
 <div class="dropDownColumn">
-<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2018-theme/assets/icons/registration.svg" alt="" />Registration</h3>
+<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/registration.svg" alt="" />Registration</h3>
 	<ul>
 		<li class="int"><a href="https://timpviewbeta.provo.edu/about-timpview/counseling-registration-calendar/">Counseling & Registration Calendar</a></li>
         <li class="int"><a href="https://timpviewbeta.provo.edu/counseling-registration/register-for-school/">Register for School</a></li>
@@ -24,7 +24,7 @@
 	</ul>
 </div>
 <div class="dropDownColumn">
-	<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2018-theme/assets/icons/planning.svg" alt="" />College &amp; Career Planning</h3>
+	<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/planning.svg" alt="" />College &amp; Career Planning</h3>
 		<ul>	
 			<li class="int"><a href="https://timpviewbeta.provo.edu/counseling-registration/ccr-seop/">College and Career Readiness Program</a></li>
             <li class="int"><a href="https://timpviewbeta.provo.edu/counseling-registration/college-planning/">College Preparation</a></li>

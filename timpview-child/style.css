@@ -179,16 +179,16 @@ Main Menu
 list icon color adjustments
 ====================================================*/
 #mainMenu ul li.intern, #mainMenu ul li.int {
-	list-style-image:url(../pcsd-2018-theme/assets/icons/file-blue.png)!important;
+	list-style-image:url(../pcsd-2019-theme/assets/icons/file-blue.png)!important;
 }
 #mainSidebar ul li.intern, #mainSidebar ul li.int {
-	list-style-image:url(../pcsd-2018-theme/assets/icons/file-white.png)!important;
+	list-style-image:url(../pcsd-2019-theme/assets/icons/file-white.png)!important;
 }
 #mainMenu ul li.ext{
-	list-style-image:url(../pcsd-2018-theme/assets/icons/external-blue.png)!important;
+	list-style-image:url(../pcsd-2019-theme/assets/icons/external-blue.png)!important;
 }
 #mainSidebar ul li.ext {
-	list-style-image:url(../pcsd-2018-theme/assets/icons/external-white.png)!important;
+	list-style-image:url(../pcsd-2019-theme/assets/icons/external-white.png)!important;
 }
 @media (max-width: 1570px) {
 	#mainMenu > ul > li {

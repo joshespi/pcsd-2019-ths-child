@@ -1,5 +1,5 @@
 <div class="dropDownColumn">
-	<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2018-theme/assets/icons/student-gov.svg" alt="" />Student Government</h3>
+	<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/student-gov.svg" alt="" />Student Government</h3>
 		<ul>
 			<li class="int"><a href="https://timpviewbeta.provo.edu/extracurricular/what-is-student-government/">What Is Student Government?</a></li>
 			<li class="int"><a href="https://timpviewbeta.provo.edu/extracurricular/how-to-run-for-office/">How To Run For Office</a></li>
@@ -11,7 +11,7 @@
 		</ul>						
 </div>
 <div class="dropDownColumn">
-	<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2018-theme/assets/icons/clubs.svg" alt="" />Clubs</h3>
+	<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/clubs.svg" alt="" />Clubs</h3>
 		<ul>
 			<li class="int"><a href="https://timpviewbeta.provo.edu/extracurricular/club-listing/">Club Listing</a></li>
             <li class="pdf"><a href="https://timpviewbeta.provo.edu/wp-content/uploads/2018/03/ths-club-application.pdf">Club Application Form</a></li>
