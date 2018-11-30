@@ -43,6 +43,7 @@ Post grid
 .searchResults .post:nth-child(odd), .postgrid .post:nth-child(odd), .staff-member-listing .personalvCard:nth-child(odd) {
 	background-color:#cddbee;
 }
+#mainHeader #cludo-search-form .search-submit {background-color: #21395a;}
 /*=============================
 tile coloring
 ===============================*/
@@ -228,7 +229,7 @@ list icon color adjustments
 }
 @media (max-width: 886px) {
 	.desktop-menu {display: none;}
-	#mainMenu {top: 143px;height: 25px;}
+	#mainMenu {top: 143px;}
 	#mainMenu .mobileMenu {display: block;color: #fff;margin-left: 10px;font-size: 16px;}
 	#reveal-menu[type=checkbox]:checked ~ .mobile-menu {display: block;}
 }
