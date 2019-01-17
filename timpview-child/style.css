@@ -153,7 +153,6 @@ header styles
 @media (max-width: 415px) {
 	#mainHeader #siteLogo {width: 60px;margin-top: 0px;}
 	#mainHeader #cludo-search-form .search-input {left:-33px;width: 100%;}
-	#mainHeader #cludo-search-form .search-input, #mainHeader #cludo-search-form.search-submit {top: 15px;}
 	#mainHeader h1 {width: 74%}
 }
 @media (max-width: 375px) {
@@ -211,7 +210,7 @@ list icon color adjustments
 		padding: 0 1%;
 	}
 }
-@media (max-width: 1220px) {
+/*@media (max-width: 1220px) {
 	#mainMenu > ul > li {
 		width: 30%;
 		padding: 0 1% 0 1%;
@@ -226,8 +225,13 @@ list icon color adjustments
 	}
 	#mainMenu > ul > li:first-child {padding-left: 0;}
 	.desktop-menu {padding-left: 10px;}
+}*/
+@media (max-width: 1222px) {
+	#mainMenu > ul > li {
+		padding: 0 0.5%;
+	}
 }
-@media (max-width: 886px) {
+@media (max-width: 1156px) {
 	.desktop-menu {display: none;}
 	#mainMenu {top: 143px;}
 	#mainMenu .mobileMenu {display: block;color: #fff;margin-left: 10px;font-size: 16px;}
@@ -236,11 +240,12 @@ list icon color adjustments
 /*================================================================================================================
 Content Area
 ================================================================================================================*/
-@media (max-width: 1166px) {
+/*@media (max-height: 1220px) {
 	#mainSidebar, #contentArea {
 		top: 192px;
 	}
 }
+*/
 @media (max-width: 885px) {
 	#mainSidebar, #contentArea {
 		top: 166px;
