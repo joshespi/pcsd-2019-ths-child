@@ -1,13 +1,14 @@
 <?php
 /*
-	Template Name: Full Width with Tiles
+	Template Name: Full width no slider - tiles
 */
 
 	get_header();
 ?>
 		<main id="contentArea">
 			<?php custom_breadcrumbs(); ?>
-			<section id="mainContent" class="single-page">
+			<section id="mainContent" class="tile-page no-slider">
+				<article class="currentContent">	
 					<?php
 						if(have_posts()) :
 						while (have_posts()) : the_post();?>
@@ -19,10 +20,10 @@
 							else :
 								echo '<p>No Content Found</p>';
 					endif;
+					wp_reset_query();
 				?>
-				<div class="clear"></div>
-			</section>
-			<section class="tiles">
+				</article><!-- End .currentContent -->
+							<section class="tiles">
 	   			<?php if(get_field('square_1')) { ?>
 		   			<aside class="tile">
 		   				<div class="featured-image">
@@ -71,52 +72,21 @@
 			   				<?php the_field('square_6'); ?>
 		   			</aside>
 	   			<?php }	?>
-	   			<?php if(get_field('square_7')) { ?>
-		   			<aside class="tile">
-		   				<div class="featured-image">
-		   						<img src="<?php the_field('square_7_photo'); ?>" alt="" />
-		   				</div>
-			   				<?php the_field('square_7'); ?>
-		   			</aside>
-	   			<?php }	?>
-	   			<?php if(get_field('square_8')) { ?>
-		   			<aside class="tile">
-		   				<div class="featured-image">
-		   						<img src="<?php the_field('square_8_photo'); ?>" alt="" />
-		   				</div>
-			   				<?php the_field('square_8'); ?>
-		   			</aside>
-	   			<?php }	?>
-	   			<?php if(get_field('square_9')) { ?>
-		   			<aside class="tile">
-		   				<div class="featured-image">
-		   						<img src="<?php the_field('square_9_photo'); ?>" alt="" />
-		   				</div>
-			   				<?php the_field('square_9'); ?>
-		   			</aside>
-	   			<?php }	?>
-	   			<?php if(get_field('square_10')) { ?>
-		   			<aside class="tile">
-		   				<div class="featured-image">
-		   						<img src="<?php the_field('square_10_photo'); ?>" alt="" />
-		   				</div>
-			   				<?php the_field('square_10'); ?>
-		   			</aside>
-	   			<?php }	?>
-	   		</section><!-- tiles end -->
-   		</section>
+	   		</section><!-- tiles end -->	
+   		</section><!-- End .tile-page -->
 		</main>
 		<?php
 	   		global $post;
-	   		if(in_array( 43177, get_post_ancestors($post))) {
-		   		get_sidebar( 'about-timpview' );
-	   		} elseif(in_array( 42312, get_post_ancestors($post))) {
-		   		get_sidebar( 'counseling' );
-	   		} elseif(in_array( 43352, get_post_ancestors($post))) {
-		   		get_sidebar( 'extracurricular' );
-	   		} elseif(in_array( 43027, get_post_ancestors($post))) {
+	   		if(in_array( 117, get_post_ancestors($post))) {
+		   		get_sidebar( 'about' );
+	   		} //elseif(in_array( 117, get_post_ancestors($post))) {
+		   		//get_sidebar( 'counseling' );
+	   		//} elseif(in_array( 43352, get_post_ancestors($post))) {
+		   		//get_sidebar( 'extracurricular' );
+	   		//} 
+	   		elseif(in_array( 122, get_post_ancestors($post))) {
 		   		get_sidebar( 'policies-forms' );
-	   		} elseif(in_array( 42310, get_post_ancestors($post))) {
+	   		} elseif(in_array( 70, get_post_ancestors($post))) {
 		   		get_sidebar( 'faculty-staff' );
 	   		} else {
 		   		get_sidebar( $sidebar );
