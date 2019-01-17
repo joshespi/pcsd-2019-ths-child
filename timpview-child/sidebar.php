@@ -1,4 +1,8 @@
 <aside id="mainSidebar">
+			<section>
+				<h1>Mission &amp; Vision</h1>
+					<p>The mission and vision of Timpview High School is to empower every student to become college, career, and life ready by embracing growth, inclusion, and excellence. </p>				
+			</section>
 				<?php
 					$my_query = new WP_Query( array('showposts' => $posts_to_show, 'category_name'  => 'message-from-administration'));
 				   			while ( $my_query->have_posts() ) : $my_query->the_post(); ?>
