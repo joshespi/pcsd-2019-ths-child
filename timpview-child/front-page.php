@@ -17,7 +17,7 @@
 							<?php endwhile;
 					wp_reset_query();
 				?>
-				<button id="closeAlert"><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2018-theme/assets/icons/round-delete-button-white.svg" alt="Close Alerts" /></button>
+				<button id="closeAlert"><img src="https://timpview.provo.edu/wp-content/themes/pcsd-2018-theme/assets/icons/round-delete-button-white.svg" alt="Close Alerts" /></button>
 			</section>
 			<?php } ?>
 			<section id="announcments">

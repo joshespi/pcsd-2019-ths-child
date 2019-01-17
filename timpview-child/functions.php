@@ -36,7 +36,7 @@ Splash page fetchs
 ============================================================================================*/
 //[aboutTimpview]
 function abouttimpview_func( $atts ) {
-	$content = file_get_contents('https://timpviewbeta.provo.edu/wp-content/themes/timpview-child/mega-menu-dropdowns/schoolInfo.php');
+	$content = file_get_contents('https://timpview.provo.edu/wp-content/themes/timpview-child/mega-menu-dropdowns/schoolInfo.php');
 	$divStripped = preg_replace("/<\/?div[^>]*\>/i", "", $content);
 	$result = str_ireplace(array('<h3>','</h3>'),array('<h2>','</h2>'),$divStripped);
 
@@ -46,7 +46,7 @@ add_shortcode( 'aboutTimpview', 'abouttimpview_func' );
 
 //[counselingMenu]
 function counselingMenu_func( $atts ) {
-	$content = file_get_contents('https://timpviewbeta.provo.edu/wp-content/themes/timpview-child/mega-menu-dropdowns/counseling.php');
+	$content = file_get_contents('https://timpview.provo.edu/wp-content/themes/timpview-child/mega-menu-dropdowns/counseling.php');
 	$divStripped = preg_replace("/<\/?div[^>]*\>/i", "", $content);
 	$result = str_ireplace(array('<h3>','</h3>'),array('<h2>','</h2>'),$divStripped);
 
@@ -56,7 +56,7 @@ add_shortcode( 'counselingMenu', 'counselingMenu_func' );
 
 //[extraCurricularMenu]
 function extraCurricularMenu_func( $atts ) {
-	$content = file_get_contents('https://timpviewbeta.provo.edu/wp-content/themes/timpview-child/mega-menu-dropdowns/extracurricular.php');
+	$content = file_get_contents('https://timpview.provo.edu/wp-content/themes/timpview-child/mega-menu-dropdowns/extracurricular.php');
 	$divStripped = preg_replace("/<\/?div[^>]*\>/i", "", $content);
 	$result = str_ireplace(array('<h3>','</h3>'),array('<h2>','</h2>'),$divStripped);
 
@@ -66,7 +66,7 @@ add_shortcode( 'extraCurricularMenu', 'extraCurricularMenu_func' );
 
 //[policiesMenu]
 function policiesMenu_func( $atts ) {
-	$content = file_get_contents('https://timpviewbeta.provo.edu/wp-content/themes/timpview-child/mega-menu-dropdowns/policies.php');
+	$content = file_get_contents('https://timpview.provo.edu/wp-content/themes/timpview-child/mega-menu-dropdowns/policies.php');
 	$divStripped = preg_replace("/<\/?div[^>]*\>/i", "", $content);
 	$result = str_ireplace(array('<h3>','</h3>'),array('<h2>','</h2>'),$divStripped);
 
@@ -76,7 +76,7 @@ add_shortcode( 'policiesMenu', 'policiesMenu_func' );
 
 //[facultyMenu]
 function facultyMenu_func( $atts ) {
-	$content = file_get_contents('https://timpviewbeta.provo.edu/wp-content/themes/timpview-child/mega-menu-dropdowns/staff.php');
+	$content = file_get_contents('https://timpview.provo.edu/wp-content/themes/timpview-child/mega-menu-dropdowns/staff.php');
 	$divStripped = preg_replace("/<\/?div[^>]*\>/i", "", $content);
 	$result = str_ireplace(array('<h3>','</h3>'),array('<h2>','</h2>'),$divStripped);
 

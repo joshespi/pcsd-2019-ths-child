@@ -1,7 +1,7 @@
 
 body.login {
 	background-color: #e1e9f4;
-	background-image: url('https://timpviewbeta.provo.edu/wp-content/uploads/2018/08/background-Image-login.jpg');
+	background-image: url('../assets/images/login-background-Image.jpg');
 	background-repeat: none;
 	background-size: cover;
 }
@@ -11,7 +11,7 @@ body.login {
 	margin-bottom: -20px;
 }
 .login h1 a {
-	background-image: url('https://timpviewbeta.provo.edu/wp-content/uploads/2017/12/timpview-logo.png');
+	background-image: url('../assets/images/header-logo.png');
 	background-size: contain;
 	width: 100%;
 	height: 100%;

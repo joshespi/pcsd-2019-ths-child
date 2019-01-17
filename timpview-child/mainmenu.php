@@ -40,6 +40,6 @@
 	   <li><a href="<?php echo get_home_url(); ?>/counseling-registration/">Counseling &amp; Registration</a></li>
 	   <li><a href="<?php echo get_home_url(); ?>/extracurricular/">Extracurricular</a></li>
 	   <li><a href="<?php echo get_home_url(); ?>/policies-forms/">Policies & Forms</a></li>
-	   <li><a href="<?php echo get_home_url(); ?>/faculty-staff/main-office-administration/">Faculty &amp; Staff</a></li>
+	   <li><a href="<?php echo get_home_url(); ?>/faculty-staff/">Faculty &amp; Staff</a></li>
 	</ul>
 </div>

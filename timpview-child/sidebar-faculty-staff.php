@@ -11,18 +11,18 @@
 	<section>
 		<h1>Teachers by Category</h1>
 			<ul>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#art">Arts</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#business">Business</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#cte">Career & Technical Education</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#driver">Driver Education</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#english">English</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#facs">Family and Consumer Science</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#language">Foreign Language</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#math">Math</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#pe">Physical Education</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#science">Science</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#socialstudies">Social Studies</a></li>
-				<li class="int"><a href="https://timpviewbeta.provo.edu/faculty-staff/teacher-directory/teachers-by-category#specialeducation">Special Education</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#art">Arts</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#business">Business</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#cte">Career & Technical Education</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#driver">Driver Education</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#english">English</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#facs">Family and Consumer Science</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#language">Foreign Language</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#math">Math</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#pe">Physical Education</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#science">Science</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#socialstudies">Social Studies</a></li>
+				<li class="int"><a href="https://timpview.provo.edu/faculty-staff/teacher-directory/teachers-by-category#specialeducation">Special Education</a></li>
 			</ul>
 	</section>
 </aside>
