@@ -47,7 +47,7 @@
 			</section>
 		</main>
 		<?php
-			global $post;
+	   		global $post;
 	   		if(in_array( 43177, get_post_ancestors($post))) {
 		   		get_sidebar( 'about-timpview' );
 	   		} elseif(in_array( 42312, get_post_ancestors($post))) {
