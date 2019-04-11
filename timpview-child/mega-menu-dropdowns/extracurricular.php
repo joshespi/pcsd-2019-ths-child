@@ -19,5 +19,6 @@
 		</ul>
 </div>
 <div class="dropDownColumn">
-	
+	<h3>Athletics</h3>
+		<a href="https://tbirdathletics.com/"><img src="https://timpview.provo.edu/wp-content/uploads/2019/02/timpview-athletics-1.png" alt="Link to THS Athletics VNN Site" /></a>
 </div>

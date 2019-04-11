@@ -89,8 +89,11 @@ header styles
 	margin-left: -14px;
 }
 #mainSidebar h1 {
-	font-size: 2em;
+	font-size: 1.8em;
 	color: #fff;
+}
+#mainSidebar h2 {
+	font-size: 1.6em;
 }
 #mainHeader {
     background-image: url('https://timpview.provo.edu/wp-content/themes/timpview-child/assets/images/header-background.jpg');

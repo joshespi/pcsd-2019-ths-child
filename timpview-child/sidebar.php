@@ -91,6 +91,25 @@
 							<span>Bus Routes</span>
 						</a>
 					</li>
+					<li>
+						<a href="<?php echo get_home_url(); ?>/attendance-school/">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/all-events-calendar.svg" alt="" />
+							<span>Attendance School</span>
+						</a>
+					</li>
+					<li>
+						<a href="https://timpview.provo.edu/wp-content/uploads/2019/03/03222019-fee-waiver.pdf">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/file-white.svg" alt="" />
+							<span>Fee Waiver Application</span>
+						</a>
+					</li>
+					<li>
+						<a href="https://timpview.provo.edu/wp-content/uploads/2019/03/03222019-fee-waivr-spanish.pdf">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/file-white.svg" alt="" />
+							<span>Solicitud de exención de cuotas</span>
+						</a>
+					</li>
 				</ul>
+				<a href="https://healthcare.utah.edu/uni/safe-ut/"><img src="https://timpview.provo.edu/wp-content/uploads/2019/03/safeUTcrisisline.jpg" alt="Link to SafeUT information"></a>
 			</section>
 		</aside>
