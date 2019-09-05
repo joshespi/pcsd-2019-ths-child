@@ -110,6 +110,7 @@
 						</a>
 					</li>
 				</ul>
-				<a href="https://healthcare.utah.edu/uni/safe-ut/"><img src="https://timpview.provo.edu/wp-content/uploads/2019/03/safeUTcrisisline.jpg" alt="Link to SafeUT information"></a>
+				<a href="https://www.peachjar.com/index.php?region=33081&a=28&b=138"><img src="https://timpview.provo.edu/wp-content/uploads/2019/05/button-orange-eflyers_202x46.png" alt="Link to PeachJar Fliers"></a>
+				<a href="https://safeut.med.utah.edu/"><img src="https://timpview.provo.edu/wp-content/uploads/2019/03/safeUTcrisisline.jpg" alt="Link to SafeUT information"></a>
 			</section>
 		</aside>
