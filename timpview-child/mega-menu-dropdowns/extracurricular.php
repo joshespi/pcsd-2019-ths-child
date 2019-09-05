@@ -20,5 +20,12 @@
 </div>
 <div class="dropDownColumn">
 	<h3>Athletics</h3>
-		<a href="https://tbirdathletics.com/"><img src="https://timpview.provo.edu/wp-content/uploads/2019/02/timpview-athletics-1.png" alt="Link to THS Athletics VNN Site" /></a>
+		<ul>
+		 	<li class="int"><a href="https://timpview.provo.edu/athletics/fall/">Fall</a></li>
+		 	<li class="int"><a href="https://timpview.provo.edu/athletics/winter/">Winter</a></li>
+		 	<li class="int"><a href="https://timpview.provo.edu/athletics/spring/">Spring</a></li>
+		 	<li class="int"><a href="https://timpview.provo.edu/athletics/activities/">Activities</a></li>
+		 	<li class="ext"><a href="https://tbirdathletics.com/photos">Photos</a></li>
+		 	<li class="ext"><a href="https://tbirdathletics.com/events">Athletics Calendar</a></li>
+		</ul>
 </div>

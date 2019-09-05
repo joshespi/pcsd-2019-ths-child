@@ -2,11 +2,12 @@
 	<h3><img src="https://timpview.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/calendars.svg" alt="" />Calendars</h3>
 		<ul>
 			<li class="int"><a href="https://timpview.provo.edu/school-information/all-events-calendar/">All Events Calendar</a></li>
-			<li class="int"><a href="https://timpview.provo.edu/about-timpview/school-year-calendar/">School Year Calendar</a></li>
+			<li class="int"><a href="https://timpview.provo.edu/school-information/school-events-calendar/">School Events Calendar</a></li>
+			<li class="int"><a href="https://timpview.provo.edu/about-timpview/extracurricular-events-calendar/">Extracurricular Events Calendar</a></li>
 			<li class="int"><a href="https://timpview.provo.edu/about-timpview/bell-schedule/">Bell Schedule</a></li>
             <li class="int"><a href="https://timpview.provo.edu/about-timpview/odd-even-calendar/">Odd Even Calendar</a></li>
-            <li class="int"><a href="https://timpview.provo.edu/about-timpview/extracurricular-events-calendar/">Extracurricular Events Calendar</a></li>
             <li class="int"><a href="https://timpview.provo.edu/about-timpview/counseling-registration-calendar/">Counseling &amp; Registration Calendar</a></li>
+            <li class="int"><a href="https://timpview.provo.edu/about-timpview/school-year-calendar/">School Year Calendar</a></li>
 		</ul>
 		
 </div>
@@ -17,7 +18,6 @@
             <li class="int"><a href="https://timpview.provo.edu/about-timpview/hours-of-operation/">Hours of Operation</a></li>
             <li class="int"><a href="https://timpview.provo.edu/about-timpview/school-profile/">School Profile</a></li>
             <li class="int"><a href="https://timpview.provo.edu/about-timpview/achievement-data/">Achievement Data</a></li>
-            <li class="pdf"><a href="https://timpview.provo.edu/wp-content/uploads/2018/03/03152018-Parent-Guide-2015-16.pdf">Download Parent Guide</a></li>
             <li class="int"><a href="https://timpview.provo.edu/about-timpview/community-council/">Community Council</a></li>
             <li class="int"><a href="https://provo.edu/transportation/find-your-bus-route/">Bus Routes</a></li>
             <li class="int"><a href="https://timpview.provo.edu/timpview-map/">School Map</a></li>
