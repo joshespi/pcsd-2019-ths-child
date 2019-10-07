@@ -98,6 +98,18 @@
 						</a>
 					</li>
 					<li>
+						<a href="https://timpview.provo.edu/wp-content/uploads/2019/10/2019-2020-Timpview-Fee-Sheet.pdf">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/file-white.svg" alt="" />
+							<span>Timpview Fee Sheet</span>
+						</a>
+					</li>
+					<li>
+						<a href="https://provo.edu/wp-content/uploads/2019/09/2019-2020-District-Fees.pdf">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/file-white.svg" alt="" />
+							<span>District Approved Fee Schedule for High Schools</span>
+						</a>
+					</li>
+					<li>
 						<a href="https://timpview.provo.edu/wp-content/uploads/2019/03/03222019-fee-waiver.pdf">
 							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/file-white.svg" alt="" />
 							<span>Fee Waiver Application</span>
