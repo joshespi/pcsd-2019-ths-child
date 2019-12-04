@@ -8,8 +8,7 @@
             <li class="int"><a href="https://timpview.provo.edu/about-timpview/odd-even-calendar/">Odd Even Calendar</a></li>
             <li class="int"><a href="https://timpview.provo.edu/about-timpview/counseling-registration-calendar/">Counseling &amp; Registration Calendar</a></li>
             <li class="int"><a href="https://timpview.provo.edu/about-timpview/school-year-calendar/">School Year Calendar</a></li>
-		</ul>
-		
+		</ul>		
 </div>
 <div class="dropDownColumn">
 	<h3><img src="https://timpview.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/school-info.svg" alt="" />About Timpview</h3>
@@ -33,7 +32,7 @@
             <li class="int"><a href="https://provo.edu/child-nutrition/">Provo Child Nutrition Website</a></li>
 		</ul>
 	<h3>Library Media Center</h3>
-			<ul>
-				<li class="ext"><a href="https://timpviewlibrary.weebly.com">Library Media Center</a></li>
-			</ul>
+		<ul>
+			<li class="ext"><a href="https://timpviewlibrary.weebly.com">Library Media Center</a></li>
+		</ul>
 </div>
