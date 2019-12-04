@@ -7,8 +7,8 @@ jQuery(".teacherActivate").click(function() {
 	return false;
 });
 jQuery(".teacherActivate").click(function() {
-		if(jQuery("#teacherAccess").css("margin-top") != "-335px") {
-			jQuery("#teacherAccess").css("margin-top", "-335px");
+		if(jQuery("#teacherAccess").css("margin-top") != "-365px") {
+			jQuery("#teacherAccess").css("margin-top", "-365px");
 			jQuery("#teacherAccess ul").css("display", "block");
 		} else {
 			jQuery("#teacherAccess").css("margin-top", "-38px");
