@@ -19,13 +19,8 @@
 		</ul>
 </div>
 <div class="dropDownColumn">
-	<h3>Athletics</h3>
+	<h3>Athletics and Activities</h3>
 		<ul>
-		 	<li class="int"><a href="https://timpview.provo.edu/athletics/fall/">Fall</a></li>
-		 	<li class="int"><a href="https://timpview.provo.edu/athletics/winter/">Winter</a></li>
-		 	<li class="int"><a href="https://timpview.provo.edu/athletics/spring/">Spring</a></li>
-		 	<li class="int"><a href="https://timpview.provo.edu/athletics/activities/">Activities</a></li>
-		 	<li class="ext"><a href="https://tbirdathletics.com/photos">Photos</a></li>
-		 	<li class="ext"><a href="https://tbirdathletics.com/events">Athletics Calendar</a></li>
+		 	<li class="int"><a href="https://tbirdathletics.com/">Athletics and Activities</a></li>
 		</ul>
 </div>
