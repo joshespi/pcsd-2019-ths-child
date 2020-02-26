@@ -110,15 +110,9 @@
 						</a>
 					</li>
 					<li>
-						<a href="https://timpview.provo.edu/wp-content/uploads/2019/03/03222019-fee-waiver.pdf">
+						<a href="https://provo.edu/wp-content/uploads/2020/02/6160-F1-Fee-Waiver-Application-Grade-7-12.pdf">
 							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/file-white.svg" alt="" />
 							<span>Fee Waiver Application</span>
-						</a>
-					</li>
-					<li>
-						<a href="https://timpview.provo.edu/wp-content/uploads/2019/03/03222019-fee-waivr-spanish.pdf">
-							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/file-white.svg" alt="" />
-							<span>Solicitud de exención de cuotas</span>
 						</a>
 					</li>
 					<li>
