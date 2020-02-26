@@ -21,7 +21,7 @@
 							<li class="pdf"><a href="https://timpview.provo.edu/wp-content/uploads/2018/03/ths-club-application.pdf">Club Application Form</a></li>
 							<li class="pdf"><a href="https://timpview.provo.edu/wp-content/uploads/2018/03/ths-Guest-Dance-Pass.pdf">Guest Dance Pass</a></li>
 							<li class="pdf"><a href="https://timpview.provo.edu/wp-content/uploads/2018/03/ths-Indoor-Rental-Form.pdf">Indoor Rental Form</a></li>
-							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2019/09/09062019-6160-FeeWaiverApplicationSevenTwelve.pdf">Fee Waiver Application</a></li>
+							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2020/02/6160-F1-Fee-Waiver-Application-Grade-7-12.pdf">Fee Waiver Application</a></li>
 							<li lang="es" class="pdf"><a href="https://provo.edu/wp-content/uploads/2019/09/09062019-6160-FeeWaiverApplicationSevenTwelveSpanish.pdf">Solicitud de exención de cuotas</a></li>
 							
 						</ul>
